@@ -18,17 +18,17 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Football Fusion 3 Wiki",
+  shortName: "Football Fusion 3",
+  logoText: "FF3",
+  tagline: "Codes, Controls, Positions & Guides",
+  description: "Explore Football Fusion 3 Wiki for Roblox football guides, controls, positions, strategies, updates, gameplay tips, and everything players need to master competitive matches.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://footballfusion3.top",
+  gameUrl: "https://www.roblox.com/games/82866880824588/Football-Fusion-3",
+  heroVideoId: "OhYyi6rn458", // Roblox Football Fusion 3 showcase & gameplay video
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://discord.com/invite/footballfusion",
+    youtube: "https://www.youtube.com/watch?v=OhYyi6rn458",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
