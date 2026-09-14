@@ -1,1 +1,451 @@
-{}
+{
+  "site": {
+    "name": "Wiki de Football Fusion 3",
+    "shortName": "Football Fusion 3",
+    "tagline": "Códigos, Controles, Posiciones y Guías",
+    "description": "Explora la Wiki de Football Fusion 3 con guías de fútbol americano en Roblox, controles, posiciones, estrategias, actualizaciones, consejos de juego y todo lo necesario para dominar partidos competitivos.",
+    "legalNotice": "Wiki no oficial de fans. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "codes": "Códigos",
+    "release": "Lanzamiento",
+    "guide": "Guía",
+    "controls": "Controles",
+    "mechanics": "Mecánicas",
+    "teams": "Equipos",
+    "community": "Comunidad",
+    "toggleTheme": "Cambiar tema",
+    "menu": "Menú"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki de Football Fusion 3 - Códigos, Controles y Guías",
+      "description": "Explora la Wiki de Football Fusion 3 con guías de fútbol americano en Roblox, controles, posiciones, estrategias, actualizaciones, consejos de juego y todo lo necesario para dominar partidos competitivos."
+    },
+    "hero": {
+      "eyebrow": "Simulador Realista de Fútbol Americano en Roblox",
+      "title": "Wiki de Football Fusion 3",
+      "description": "Football Fusion 3 es un juego competitivo de simulación de fútbol americano en Roblox con pases, recepciones, placajes, trabajo en equipo y roles realistas. Domina controles, posiciones, estrategias, actualizaciones y tácticas de juego.",
+      "stats": [
+        "64M+ Visitas Totales",
+        "14 Jugadores Disponibles",
+        "Códigos Activos",
+        "Actualizaciones Semanales"
+      ],
+      "primaryCta": "Guía para Principiantes",
+      "secondaryCta": "Controles y Posiciones",
+      "tertiaryCta": "Códigos Activos",
+      "videoLabel": "Presentación oficial"
+    },
+    "updates": {
+      "title": "Últimas Actualizaciones",
+      "browse": "Explorar Todas las Guías",
+      "viewAll": "Ver Todo"
+    },
+    "start": {
+      "eyebrow": "Comienza Aquí",
+      "title": "Tu Trayectoria en Football Fusion 3",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para Principiantes",
+          "description": "Domina el campo desde el primer día con nuestra completa guía para principiantes de Football Fusion 3 sobre el flujo de partidos, posiciones y mecánicas clave."
+        },
+        {
+          "number": "2",
+          "title": "Controles y Teclas",
+          "description": "Aprende las configuraciones de PC, móvil y mando para lanzar, lanzarte en plancha, recibir y placar en Football Fusion 3."
+        },
+        {
+          "number": "3",
+          "title": "Guía de Quarterback y Posiciones",
+          "description": "Descubre roles óptimos y responsabilidades para Quarterback, Wide Receiver, Running Back y Defensive Back."
+        },
+        {
+          "number": "4",
+          "title": "Códigos Activos y Recompensas",
+          "description": "Mantente al día con los últimos códigos promocionales de Football Fusion 3, pasos de canje y cosméticos exclusivos."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas Populares",
+      "title": "Tendencias Actuales",
+      "quickLinks": [
+        "Guía para Principiantes",
+        "Guía de Controles",
+        "Consejos para Quarterback",
+        "Códigos Activos"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para Principiantes",
+          "description": "Todo lo que necesitas desde el saque inicial hasta dominar pases, recepciones y anotaciones en Football Fusion 3.",
+          "href": "/guide/football-fusion-3-beginner-guide"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Códigos Activos",
+          "description": "Todos los códigos promocionales funcionales de Football Fusion 3 con recompensas, pasos de canje y fechas de caducidad.",
+          "href": "/codes/football-fusion-3-codes"
+        },
+        {
+          "badge": "Controles",
+          "title": "Controles y Teclas",
+          "description": "Mapeo completo de botones para PC, mando y móvil para pasar, lanzarse y placar en Football Fusion 3.",
+          "href": "/controls/football-fusion-3-controls"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guía de Quarterback",
+          "description": "Domina la trayectoria de pase, pases bala, visión en el pocket y lectura de la cobertura defensiva.",
+          "href": "/guide/football-fusion-3-quarterback-guide"
+        },
+        {
+          "badge": "Defensa",
+          "title": "Placajes y Defensa",
+          "description": "Desglosa mecánicas de placaje en plancha, desvíos de pase y posicionamiento de intercepción.",
+          "href": "/mechanics/football-fusion-3-tackling"
+        },
+        {
+          "badge": "Estrategia",
+          "title": "Estrategias Ofensivas",
+          "description": "Conceptos clave de rutas, lecturas previas al snap y gestión del reloj en Football Fusion 3.",
+          "href": "/guide/football-fusion-3-strategy"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Football Fusion 3?",
+      "paragraphs": [
+        "Football Fusion 3 es un juego competitivo de simulación de fútbol americano en Roblox desarrollado por XSTNS GAMES que cuenta con pases, recepciones, placajes, trabajo en equipo y roles de jugador realistas. Compite en dinámicos partidos 7v7 con tácticas personalizadas, física realista y trayectorias precisas de balón.",
+        "Ya sea que estés perfeccionando tu espiral como Quarterback estrella, marcando receptores como Cornerback de élite o mejorando habilidades con tus compañeros de equipo, nuestra wiki cubre cada sistema con guías detalladas, esquemas de control y análisis tácticos."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "XSTNS GAMES"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Género",
+          "value": "Simulador Deportivo"
+        },
+        {
+          "label": "Visitas",
+          "value": "64M+"
+        },
+        {
+          "label": "Pico de Jugadores",
+          "value": "6,700+"
+        },
+        {
+          "label": "Tamaño de Equipo",
+          "value": "7v7"
+        },
+        {
+          "label": "Códigos Activos",
+          "value": "0"
+        }
+      ],
+      "cta": "Explorar Todas las Guías"
+    },
+    "explore": {
+      "title": "Explorar la Wiki de Football Fusion 3",
+      "description": "Domina el campo de fútbol americano en Roblox con guías esenciales de progresión, códigos activos, descripciones de posiciones y estrategias ofensivas y defensivas.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Códigos de Football Fusion 3",
+          "description": "Proporciona los últimos códigos de Football Fusion 3, recompensas disponibles, estado de canje y cómo reclamar artículos gratuitos.",
+          "href": "/codes/football-fusion-3-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "FF3RELEASE",
+              "detail": "Celebraciones y cosméticos gratis (Activo)",
+              "badge": "Activo"
+            },
+            {
+              "label": "TOUCHDOWN",
+              "detail": "XP adicional y monedas del juego (Activo)",
+              "badge": "Activo"
+            },
+            {
+              "label": "Menú Ajustes",
+              "detail": "Canjea en la casilla de códigos de ajustes",
+              "badge": "Consejo"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía para Principiantes de Football Fusion 3",
+          "description": "Guía de inicio que cubre jugabilidad básica, flujo de partidos, controles, posiciones y la forma más rápida de mejorar.",
+          "href": "/guide/football-fusion-3-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Únete a un servidor y selecciona tu rol deseado antes del saque inicial"
+            },
+            {
+              "label": "2",
+              "detail": "Aprende el movimiento básico y la gestión del sprint para ahorrar energía"
+            },
+            {
+              "label": "3",
+              "detail": "Practica recepciones y tiempos de plancha en las instalaciones de entrenamiento"
+            },
+            {
+              "label": "4",
+              "detail": "Comunica rutas y asignaciones de cobertura con tus compañeros de equipo"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía de Controles de Football Fusion 3",
+          "description": "Explica los controles de PC, mando y móvil con acciones clave como lanzar, atrapar, placar y desplazarse.",
+          "href": "/controls/football-fusion-3-controls",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "PC",
+              "detail": "Clic Izquierdo para Lanzar/Placar, Shift para Correr, Espacio para Saltar/Plancha"
+            },
+            {
+              "label": "Xbox",
+              "detail": "RT para Lanzar/Correr, X para Plancha, Y para Desviar/Atrapar"
+            },
+            {
+              "label": "Móvil",
+              "detail": "Palanca táctil para moverte, botones de Acción para Atrapar y Placar"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de Posiciones de Football Fusion 3",
+          "description": "Presenta los principales roles del fútbol americano incluyendo quarterback, receptor, running back y posiciones defensivas.",
+          "href": "/guide/football-fusion-3-how-to-play",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Quarterback (QB) — Dicta el ritmo del partido; requiere visión de élite y precisión de pase."
+            },
+            {
+              "label": "A",
+              "detail": "Wide Receiver (WR) — Amenaza de anotación de alto impacto; exige rutas precisas y recepción segura."
+            },
+            {
+              "label": "B",
+              "detail": "Cornerback (CB) — Defensa de pase fundamental; lee rutas y desvía pases profundos."
+            },
+            {
+              "label": "C",
+              "detail": "Running Back (RB) — Ataque terrestre y opción de pase corto ante formaciones de blitz pesado."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de Ataque de Football Fusion 3",
+          "description": "Cubre tácticas ofensivas incluyendo pases, sincronización de recepciones, rutas, carreras y técnicas de anotación.",
+          "href": "/guide/football-fusion-3-strategy",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Lee la posición de los safeties antes del snap para identificar defensa individual o zonal"
+            },
+            {
+              "label": "2",
+              "detail": "Anticipa el pase por delante del receptor según su ventaja de separación"
+            },
+            {
+              "label": "3",
+              "detail": "Usa fintas de pase para descolocar a los defensores secundarios"
+            },
+            {
+              "label": "4",
+              "detail": "Protege el balón deslizándote o lanzándote antes de recibir el placaje"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de Defensa de Football Fusion 3",
+          "description": "Explica el juego defensivo incluyendo placajes, intercepciones, coberturas y cómo frenar jugadas ofensivas.",
+          "href": "/mechanics/football-fusion-3-tackling",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Placaje",
+              "detail": "Mide tu placaje en plancha justo cuando el portador del balón entra en tu zona"
+            },
+            {
+              "label": "Intercepción",
+              "detail": "Posiciónate frente al receptor y mantén pulsado atrapar en el punto más alto del salto"
+            },
+            {
+              "label": "Desvío",
+              "detail": "Golpea balones divididos hacia abajo para evitar recepciones de rebote peligrosas"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guía de Gamepasses de Football Fusion 3",
+          "description": "Lista de pases de juego disponibles con explicación de sus funciones, valor y compras recomendadas.",
+          "href": "/mechanics/football-fusion-3-gamepasses",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Acceso VIP — Desbloquea celebraciones personalizadas, números de camiseta y ventajas extra."
+            },
+            {
+              "label": "A",
+              "detail": "Balones y Estelas Personalizadas — Efectos de estela cosméticos y apariencia visual de balón mejorada."
+            },
+            {
+              "label": "B",
+              "detail": "Pack de Celebraciones — Emoticonos dinámicos de baile en zona de anotación y pistas de audio."
+            },
+            {
+              "label": "C",
+              "detail": "Audio de Estadio — Música personalizada de entrada y efectos sonoros de estadio propios."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Actualizaciones de Football Fusion 3",
+          "description": "Sigue las actualizaciones clave de Football Fusion 3, nuevas características, ajustes de juego y anuncios oficiales.",
+          "href": "/release/football-fusion-3-release-date",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Renovación Física: Cálculos actualizados de trayectoria de balón y resistencia aerodinámica"
+            },
+            {
+              "label": "2",
+              "detail": "Nuevos Estadios: Añadidos campos competitivos profesionales con iluminación dinámica"
+            },
+            {
+              "label": "3",
+              "detail": "Balance de Placajes: Reducida la latencia de colisión en planchas para juego competitivo"
+            },
+            {
+              "label": "4",
+              "detail": "Personalización: Nuevos uniformes de equipo, guantes y viseras de casco ampliados"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Football Fusion 3.",
+      "items": [
+        {
+          "question": "¿Qué es Football Fusion 3?",
+          "answer": "Football Fusion 3 es un juego realista y competitivo de simulación de fútbol americano en Roblox desarrollado por XSTNS GAMES. Incluye partidos 7v7 completos, física precisa de balón, roles de juego detallados y competición multijugador online."
+        },
+        {
+          "question": "¿Cómo canjeo códigos en Football Fusion 3?",
+          "answer": "En Football Fusion 3, abre el menú de Ajustes o Códigos desde la sala principal, introduce un código promocional activo en el campo de texto y pulsa Canjear para recibir tus recompensas."
+        },
+        {
+          "question": "¿En qué plataformas está disponible Football Fusion 3?",
+          "answer": "Football Fusion 3 está disponible en PC, dispositivos móviles (iOS y Android) y consolas a través de Roblox, con teclas dedicadas y controles táctiles optimizados para cada plataforma."
+        },
+        {
+          "question": "¿Cuáles son las mejores posiciones para principiantes en Football Fusion 3?",
+          "answer": "Los principiantes en Football Fusion 3 deberían empezar como Wide Receiver o Defensive Back para familiarizarse con el movimiento, la velocidad de sprint y la recepción antes de probar como Quarterback."
+        },
+        {
+          "question": "¿Cómo funcionan las trayectorias de pase en Football Fusion 3?",
+          "answer": "El pase en Football Fusion 3 depende del apuntado del ratón, la fuerza de carga y la velocidad del receptor. Un toque rápido produce un pase bombeado, mientras que mantener pulsado crea un pase bala."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para Dominar Football Fusion 3?",
+      "description": "Desde tu primer snap hasta series de campeonato, nuestra wiki comunitaria te ofrece guías completas, controles y estrategias.",
+      "primary": "Leer la Guía para Principiantes",
+      "secondary": "Jugar en Roblox"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la Wiki",
+    "activeCodes": "Códigos Activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de Contenidos",
+    "nextSteps": "Siguientes Pasos",
+    "needHelp": "¿Necesitas Ayuda?",
+    "relatedReading": "Lecturas Relacionadas",
+    "relatedGuides": "Guías Relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Wiki de Football Fusion 3",
+    "about": "Football Fusion 3 Wiki es un centro independiente de guías creado por fans que cubre controles, posiciones, mecánicas de pase, jugadas tácticas y conocimientos esenciales para jugadores de fútbol americano en Roblox.",
+    "quickLinks": "Enlaces Rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Football Fusion 3 Wiki. No afiliado con XSTNS GAMES ni Roblox.",
+    "description": "Juego realista de simulación de fútbol americano en Roblox con mecánicas competitivas de pase, recepción y placaje.",
+    "playGame": "Jugar a Football Fusion 3",
+    "officialDiscord": "Discord Oficial",
+    "officialYoutube": "YouTube Oficial",
+    "vvBuilder": "Guía de Controles",
+    "beginnerGuide": "Guía para Principiantes",
+    "raceGuides": "Posiciones",
+    "bossGuides": "Controles",
+    "buildGuide": "Tácticas",
+    "privacyPolicy": "Política de Privacidad",
+    "termsOfService": "Términos de Servicio"
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Football Fusion 3",
+    "overviewDescription": "Últimos códigos de canje activos, recompensas y cómo reclamar artículos gratis en Football Fusion 3."
+  },
+  "release": {
+    "overviewTitle": "Lanzamiento de Football Fusion 3",
+    "overviewDescription": "Fechas de lanzamiento, anuncios de actualización e información de la hoja de ruta de Football Fusion 3."
+  },
+  "guide": {
+    "overviewTitle": "Guía de Football Fusion 3",
+    "overviewDescription": "Guías completas para principiantes, estrategias de juego y tutoriales de quarterback para Football Fusion 3."
+  },
+  "controls": {
+    "overviewTitle": "Controles de Football Fusion 3",
+    "overviewDescription": "Esquemas completos de control para teclado de PC, mando y dispositivos móviles en Football Fusion 3."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Football Fusion 3",
+    "overviewDescription": "Guías detalladas sobre placajes, mecánicas de pase, modo realista y pases de juego en Football Fusion 3."
+  },
+  "teams": {
+    "overviewTitle": "Equipos de Football Fusion 3",
+    "overviewDescription": "Información sobre ligas oficiales, equipos competitivos, clanes y personalización de equipos en Football Fusion 3."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de Football Fusion 3",
+    "overviewDescription": "Únete a servidores oficiales de Discord, comunidades de Reddit y centros globales de jugadores de Football Fusion 3."
+  }
+}

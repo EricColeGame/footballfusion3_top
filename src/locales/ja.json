@@ -1,1 +1,451 @@
-{}
+{
+  "site": {
+    "name": "Football Fusion 3 Wiki",
+    "shortName": "Football Fusion 3",
+    "tagline": "コード・操作方法・ポジション・攻略ガイド",
+    "description": "Robloxのアメリカンフットボールゲーム「Football Fusion 3」の総合Wikiです。初心者ガイド、操作方法、ポジション解説、戦術、最新アップデート、攻略情報を網羅しています。",
+    "legalNotice": "非公式ファンWikiです。プレイヤーによる、プレイヤーのための攻略情報を提供しています。"
+  },
+  "nav": {
+    "codes": "コード",
+    "release": "リリース",
+    "guide": "ガイド",
+    "controls": "操作方法",
+    "mechanics": "システム",
+    "teams": "チーム",
+    "community": "コミュニティ",
+    "toggleTheme": "テーマ切替",
+    "menu": "メニュー"
+  },
+  "home": {
+    "meta": {
+      "title": "Football Fusion 3 Wiki - コード・操作方法・攻略ガイド",
+      "description": "Robloxのアメリカンフットボールゲーム「Football Fusion 3」の総合Wikiです。初心者ガイド、操作方法、ポジション解説、戦術、最新アップデート、攻略情報を網羅しています。"
+    },
+    "hero": {
+      "eyebrow": "Roblox本格アメリカンフットボールシミュレーター",
+      "title": "Football Fusion 3 Wiki",
+      "description": "Football Fusion 3は、リアルなパス、キャッチ、タックル、チーム連携、多彩なポジションを楽しめるRobloxの対戦型アメフトゲームです。操作方法、ポジション役割、戦術戦略、最新アップデート情報を完全解説。",
+      "stats": [
+        "総訪問数 6,400万回突破",
+        "14名プレイ対応",
+        "最新コード随時更新",
+        "週間アップデート実施"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "操作方法とポジション",
+      "tertiaryCta": "有効なコード",
+      "videoLabel": "公式紹介動画"
+    },
+    "updates": {
+      "title": "最新アップデート情報",
+      "browse": "全ガイドを閲覧",
+      "viewAll": "すべて見る"
+    },
+    "start": {
+      "eyebrow": "ここからスタート",
+      "title": "Football Fusion 3 入門への道",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者向けスタートガイド",
+          "description": "試合の流れ、ポジション選択、基本システムを理解し、初日からフィールドで活躍するための初心者向け入門解説です。"
+        },
+        {
+          "number": "2",
+          "title": "操作方法とキー設定",
+          "description": "PCキーボード、コントローラー、モバイル端末でのスロー、ダイブ、キャッチ、タックルの操作方法を解説します。"
+        },
+        {
+          "number": "3",
+          "title": "クォーターバックとポジション解説",
+          "description": "クォーターバック、ワイドレシーバー、ランニングバック、ディフェンシブバックの役割と立ち回りを詳しく紹介。"
+        },
+        {
+          "number": "4",
+          "title": "最新コードと無料報酬",
+          "description": "Football Fusion 3で現在利用可能なプロモーションコード、引き換え手順、限定報酬の最新一覧をチェック。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気コンテンツ",
+      "title": "注目の注目記事",
+      "quickLinks": [
+        "初心者ガイド",
+        "操作ガイド",
+        "QB上達のコツ",
+        "最新コード"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者向けガイド",
+          "description": "キックオフからパス、キャッチ、タッチダウンの決め方まで基本をすべて網羅した入門ガイド。",
+          "href": "/guide/football-fusion-3-beginner-guide"
+        },
+        {
+          "badge": "更新",
+          "title": "有効なコード一覧",
+          "description": "Football Fusion 3の最新引き換えコード、報酬内容、入力手順、有効期限の完全まとめ。",
+          "href": "/codes/football-fusion-3-codes"
+        },
+        {
+          "badge": "操作",
+          "title": "操作方法・キー配置",
+          "description": "PC・パッド・スマホ対応のパス、ダイビング、タックルの全ボタン配置一覧。",
+          "href": "/controls/football-fusion-3-controls"
+        },
+        {
+          "badge": "人気",
+          "title": "クォーターバック攻略",
+          "description": "パスタッチ、弾道コントロール、ポケット内の視野確保、ディフェンスカバーの読み方を伝授。",
+          "href": "/guide/football-fusion-3-quarterback-guide"
+        },
+        {
+          "badge": "守備",
+          "title": "タックルと守備戦術",
+          "description": "ダイビングタックルの成功タイミング、パス妨害、インターセプトのポジショニング解説。",
+          "href": "/mechanics/football-fusion-3-tackling"
+        },
+        {
+          "badge": "戦術",
+          "title": "攻撃戦術とルート戦略",
+          "description": "レシーバーのルートランニング、スナップ前の守備読み、クロックマネジメントの極意。",
+          "href": "/guide/football-fusion-3-strategy"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Football Fusion 3とは？",
+      "paragraphs": [
+        "Football Fusion 3は、XSTNS GAMESが開発するRobloxの本格アメリカンフットボール対戦ゲームです。リアルな物理演算によるボール挙動、精密なパスとキャッチ、力強いタックル、そして7v7のチームプレイが魅力です。",
+        "チームの要であるクォーターバックとして精密なスパイラルパスを通すもよし、鉄壁のコーナーバックとして相手パスを封じるもよし。当Wikiでは全ポジションの攻略法、操作ガイド、戦術解説を網羅しています。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "XSTNS GAMES"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "Roblox"
+        },
+        {
+          "label": "ジャンル",
+          "value": "スポーツシミュレーター"
+        },
+        {
+          "label": "総訪問回数",
+          "value": "6,400万+"
+        },
+        {
+          "label": "最大同時接続",
+          "value": "6,700+"
+        },
+        {
+          "label": "チーム編成",
+          "value": "7v7"
+        },
+        {
+          "label": "有効コード",
+          "value": "0"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Football Fusion 3 Wiki コンテンツ一覧",
+      "description": "進行ガイド、最新コード、全ポジション解説、攻守の戦術戦略でRobloxアメフトの頂点を目指しましょう。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Football Fusion 3 コード情報",
+          "description": "最新のゲーム内コード、獲得可能な報酬、入力状態、無料アイテムの受け取り手順を提供します。",
+          "href": "/codes/football-fusion-3-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "FF3RELEASE",
+              "detail": "無料セレブレーション＆スキン（有効）",
+              "badge": "有効"
+            },
+            {
+              "label": "TOUCHDOWN",
+              "detail": "ボーナスXP＆ゲーム内コイン（有効）",
+              "badge": "有効"
+            },
+            {
+              "label": "設定メニュー",
+              "detail": "上部設定内のコード入力欄から引き換え",
+              "badge": "Tips"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Football Fusion 3 初心者向けガイド",
+          "description": "基本操作、試合の流れ、ポジション選択、初心者が最短で上達するための入門ガイドです。",
+          "href": "/guide/football-fusion-3-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "サーバーに参加しキックオフ前に希望ポジションを選択する"
+            },
+            {
+              "label": "2",
+              "detail": "基本移動とスタミナを維持するためのダッシュ配分を覚える"
+            },
+            {
+              "label": "3",
+              "detail": "練習場でキャッチのタイミングとダイブの感覚を身につける"
+            },
+            {
+              "label": "4",
+              "detail": "チームメイトとパスルートや守備の担当範囲を共有する"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Football Fusion 3 操作方法ガイド",
+          "description": "PCキーボード、コントローラー、モバイル端末でのパス、キャッチ、タックル、移動操作を解説。",
+          "href": "/controls/football-fusion-3-controls",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "PC",
+              "detail": "左クリックでパス/タックル、Shiftでダッシュ、Spaceでジャンプ/ダイブ"
+            },
+            {
+              "label": "Xbox",
+              "detail": "RTでパス/ダッシュ、Xでダイブ、Yでパス妨害/キャッチ"
+            },
+            {
+              "label": "スマホ",
+              "detail": "仮想スティックで移動、専用アクションボタンでキャッチ・タックル"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Football Fusion 3 ポジション解説",
+          "description": "クォーターバック、レシーバー、ランニングバック、守備陣など各ポジションの重要性を紹介。",
+          "href": "/guide/football-fusion-3-how-to-play",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "クォーターバック (QB) — 試合を統率する要。広い視野と的確な投球精度が求められます。"
+            },
+            {
+              "label": "A",
+              "detail": "ワイドレシーバー (WR) — 得点の主役。鋭いルートランと確実なキャッチ力が不可欠です。"
+            },
+            {
+              "label": "B",
+              "detail": "コーナーバック (CB) — 対空防衛の砦。相手レシーバーの動きを読みパスを遮断します。"
+            },
+            {
+              "label": "C",
+              "detail": "ランニングバック (RB) — 地上戦の切り込み隊長。激しいブリッツ時のショートパス受け手にも最適。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Football Fusion 3 攻撃戦術ガイド",
+          "description": "パスの通し方、キャッチタイミング、ルートの走り方、ラン攻撃と得点テクニックを解説。",
+          "href": "/guide/football-fusion-3-strategy",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "スナップ前に相手セーフティの位置を見てマンツーマンかゾーン守備かを判別"
+            },
+            {
+              "label": "2",
+              "detail": "レシーバーの走る前方のスペースに向けてボールをリードスローする"
+            },
+            {
+              "label": "3",
+              "detail": "ポンプフェイク（投球モーション偽装）で守備陣を釣り出す"
+            },
+            {
+              "label": "4",
+              "detail": "タックルを受ける直前にスライディングやダイブでボールをキープする"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Football Fusion 3 守備戦術ガイド",
+          "description": "タックル、インターセプト、パスカバー、相手攻撃の止め方などディフェンス全般を解説。",
+          "href": "/mechanics/football-fusion-3-tackling",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "タックル",
+              "detail": "ボール保持者が走るコースに入り込んだ瞬間に合わせてダイブを繰り出す"
+            },
+            {
+              "label": "インターセプト",
+              "detail": "レシーバーの前方に回り込み、ジャンプの頂点でキャッチボタンを長押しする"
+            },
+            {
+              "label": "パス妨害",
+              "detail": "競り合いのボールは下方向に叩き落として危険な跳ね返りキャッチを防ぐ"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Football Fusion 3 ゲームパスガイド",
+          "description": "利用可能なゲームパスの機能、コスパ、おすすめの購入順序を分かりやすく紹介します。",
+          "href": "/mechanics/football-fusion-3-gamepasses",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "VIPパス — 限定セレブレーション、背番号選択、各種ボーナス特典をアンロック。"
+            },
+            {
+              "label": "A",
+              "detail": "カスタムボール＆エフェクト — 投球時の特殊トレイルやオリジナルボールスキン。"
+            },
+            {
+              "label": "B",
+              "detail": "セレブレーションパック — エンドゾーンでの専用ダンスエモートやBGM。"
+            },
+            {
+              "label": "C",
+              "detail": "スタジアム音響 — 試合入場時のカスタムテーマ曲やスタジアム専用SE。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Football Fusion 3 アップデート情報",
+          "description": "Football Fusion 3の大型アップデート、新機能、バランス調整、公式告知を追跡します。",
+          "href": "/release/football-fusion-3-release-date",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "物理エンジン刷新: ボール弾道計算と空気抵抗のシミュレーションを全面改良"
+            },
+            {
+              "label": "2",
+              "detail": "新スタジアム追加: ダイナミックライティング対応の競技場を実装"
+            },
+            {
+              "label": "3",
+              "detail": "タックル調整: 競技シーン向けにダイブ時の当たり判定遅延を軽減"
+            },
+            {
+              "label": "4",
+              "detail": "カスタマイズ拡充: チームユニフォーム、グローブ、ヘルメットバイザーを追加"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問 (FAQ)",
+      "description": "Football Fusion 3に関する代表的な質問と回答をまとめました。",
+      "items": [
+        {
+          "question": "Football Fusion 3とはどのようなゲームですか？",
+          "answer": "Football Fusion 3は、XSTNS GAMESが開発したRoblox上の本格対戦アメリカンフットボールゲームです。7v7のリアルな試合、精密なボール物理、細かなポジション制、オンライン対戦を楽しめます。"
+        },
+        {
+          "question": "コードはどこで入力できますか？",
+          "answer": "ロビー画面の設定メニューまたはコード欄を開き、有効なコードを入力して引き換えボタンを押すと特典を受け取れます。"
+        },
+        {
+          "question": "対応プラットフォームは何ですか？",
+          "answer": "Robloxを介してPC、スマートフォン（iOS / Android）、家庭用ゲーム機に対応しており、各端末に最適化された操作設定が用意されています。"
+        },
+        {
+          "question": "初心者におすすめのポジションはどれですか？",
+          "answer": "初心者は操作に慣れるため、まずはワイドレシーバー（WR）やディフェンシブバック（DB）から始めるのがおすすめです。慣れてからクォーターバック（QB）に挑戦しましょう。"
+        },
+        {
+          "question": "パスの投げ分けはどう行いますか？",
+          "answer": "マウスの狙い、投球ボタンの押し加減、レシーバーの速度で弾道が変わります。短く押すとロブパス、長押しするとライナー性の弾丸パスになります。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Football Fusion 3 のフィールドへ踏み出そう",
+      "description": "最初のスナップからチャンピオン決定戦まで、当Wikiは充実のガイドと戦術であなたのプレイを全力サポートします。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Robloxでプレイする"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wiki ナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新日時",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "Robloxでプレイ",
+    "inThisSection": "このセクションの内容",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "現在利用可能なガイドはありません。後ほどご確認ください。"
+  },
+  "footer": {
+    "aboutTitle": "Football Fusion 3 Wiki",
+    "about": "Football Fusion 3 Wikiは、Robloxでアメリカンフットボールを楽しむプレイヤーのために、操作方法、ポジション役割、パスのコツ、戦術知識をまとめた独立ファンサイトです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド一覧",
+    "legal": "法的表記",
+    "copyright": "2026 Football Fusion 3 Wiki. Not affiliated with XSTNS GAMES or Roblox.",
+    "description": "精密なパス、キャッチ、タックルを体験できるRobloxの本格アメフト対戦シミュレーター。",
+    "playGame": "Football Fusion 3 をプレイ",
+    "officialDiscord": "公式 Discord",
+    "officialYoutube": "公式 YouTube",
+    "vvBuilder": "操作ガイド",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "ポジション",
+    "bossGuides": "操作方法",
+    "buildGuide": "戦術",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  },
+  "codes": {
+    "overviewTitle": "Football Fusion 3 コード一覧",
+    "overviewDescription": "Football Fusion 3の最新引き換えコード、無料報酬、引き換え手順の完全解説。"
+  },
+  "release": {
+    "overviewTitle": "Football Fusion 3 リリース情報",
+    "overviewDescription": "Football Fusion 3の発売日、アップデート予告、開発ロードマップの情報まとめ。"
+  },
+  "guide": {
+    "overviewTitle": "Football Fusion 3 攻略ガイド",
+    "overviewDescription": "Football Fusion 3の初心者向けガイド、立ち回り戦略、クォーターバック育成の手引き。"
+  },
+  "controls": {
+    "overviewTitle": "Football Fusion 3 操作方法",
+    "overviewDescription": "Football Fusion 3のPCキーボード、コントローラー、モバイル端末での完全操作ガイド。"
+  },
+  "mechanics": {
+    "overviewTitle": "Football Fusion 3 ゲームシステム",
+    "overviewDescription": "Football Fusion 3のタックル判定、パス挙動、リアルモード、ゲームパスの詳細解説。"
+  },
+  "teams": {
+    "overviewTitle": "Football Fusion 3 チーム・リーグ情報",
+    "overviewDescription": "Football Fusion 3の公式リーグ、競技チーム、クラン、チームユニフォーム設定の解説。"
+  },
+  "community": {
+    "overviewTitle": "Football Fusion 3 コミュニティ",
+    "overviewDescription": "Football Fusion 3の公式Discordサーバー、Reddit、世界のプレイヤー交流ハブ情報。"
+  }
+}
