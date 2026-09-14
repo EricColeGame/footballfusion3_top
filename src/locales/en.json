@@ -34,27 +34,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Football Fusion 3 Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Master the gridiron from day one with our comprehensive Football Fusion 3 beginner guide covering match flow, positions, and core gameplay."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Controls & Keybinds",
+          "description": "Learn PC, mobile, and controller layouts for throwing, diving, catching, and tackling in Football Fusion 3."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Quarterback & Positions Guide",
+          "description": "Discover optimal roles and responsibilities for Quarterback, Wide Receiver, Running Back, and Defensive Back."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Active Codes & Rewards",
+          "description": "Stay up to date with the latest Football Fusion 3 working codes, redeem steps, and exclusive cosmetic rewards."
         }
       ]
     },
@@ -62,78 +62,60 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Controls Guide",
+        "Quarterback Tips",
+        "Active Codes"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need from kickoff to mastering passing, catching, and scoring in Football Fusion 3.",
+          "href": "/guide/football-fusion-3-beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "description": "All working promo codes for Football Fusion 3 with rewards, redeem steps, and expirations.",
+          "href": "/codes/football-fusion-3-codes"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Controls",
+          "title": "Controls & Keybinds",
+          "description": "Full PC, controller, and mobile button mapping for passing, diving, and tackling in Football Fusion 3.",
+          "href": "/controls/football-fusion-3-controls"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Quarterback Guide",
+          "description": "Master pass trajectory, bullet throws, pocket awareness, and reading defensive coverage.",
+          "href": "/guide/football-fusion-3-quarterback-guide"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Defense",
+          "title": "Tackling & Defense",
+          "description": "Break down dive tackling mechanics, pass swats, and interception positioning.",
+          "href": "/mechanics/football-fusion-3-tackling"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Strategy",
+          "title": "Offensive Strategies",
+          "description": "Top route-running concepts, pre-snap reads, and clock management tips in Football Fusion 3.",
+          "href": "/guide/football-fusion-3-strategy"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Football Fusion 3?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Football Fusion 3 is a competitive Roblox football simulation game developed by XSTNS GAMES featuring realistic passing, catching, tackling, teamwork, and player roles. Compete in fast-paced 7v7 gridiron matchups with custom playbooks, realistic physics, and precise ball trajectories.",
+        "Whether you are perfecting your spiral as a franchise Quarterback, locking down receivers as a shutdown Cornerback, or leveling up your skills with teammates, our wiki covers every system with detailed guides, control layouts, and tactical breakdowns."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "XSTNS GAMES"
         },
         {
           "label": "Platform",
@@ -141,158 +123,219 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Sports Simulator"
         },
         {
           "label": "Visits",
-          "value": "12.6M+"
+          "value": "64M+"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Peak Players",
+          "value": "6,700+"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Team Size",
+          "value": "7v7"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Active Codes",
+          "value": "0"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Football Fusion 3 Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Master the football field on Roblox with essential progression guides, active codes, complete position overviews, and optimal offensive and defensive strategies.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Football Fusion 3 Codes",
+          "description": "Provide the latest Football Fusion 3 codes, available rewards, redemption status, and how players can claim possible freebies.",
+          "href": "/codes/football-fusion-3-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "FF3RELEASE",
+              "detail": "Free Celebrations & Cosmetics (Active)",
+              "badge": "Active"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "TOUCHDOWN",
+              "detail": "Bonus XP & In-Game Coins (Active)",
+              "badge": "Active"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Settings Menu",
+              "detail": "Redeem via Codes box in top settings",
+              "badge": "Tip"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Football Fusion 3 Beginner Guide",
+          "description": "A starter guide covering basic gameplay, match flow, controls, positions, and the fastest way for new players to improve.",
+          "href": "/guide/football-fusion-3-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Join a server and select your desired role before kickoff"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Learn basic movement and sprint timing to preserve stamina"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Practice catching and dive timing in the practice facility"
+            },
+            {
+              "label": "4",
+              "detail": "Communicate routes and coverage assignments with teammates"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "Football Fusion 3 Controls Guide",
+          "description": "Explain PC, controller, and mobile controls with key actions such as throwing, catching, tackling, and movement.",
+          "href": "/controls/football-fusion-3-controls",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "PC",
+              "detail": "Left Click to Throw/Tackle, Shift to Sprint, Space to Jump/Dive"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Xbox",
+              "detail": "RT to Throw/Sprint, X to Dive, Y to Swat/Catch"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
-            },
-            {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Mobile",
+              "detail": "Touch virtual stick to move, tap Action buttons for Catch & Tackle"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Football Fusion 3 Positions Guide",
+          "description": "Introduce major football roles including quarterback, receiver, running back, and defensive positions.",
+          "href": "/guide/football-fusion-3-how-to-play",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Quarterback (QB) — Dictates game tempo, requires elite vision and throw timing."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Wide Receiver (WR) — High-impact scoring threat; requires sharp route running and catching."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Cornerback (CB) — Essential pass defense; reads routes and swats deep passes."
+            },
+            {
+              "label": "C",
+              "detail": "Running Back (RB) — Ground attack and checkdown option against heavy blitz packages."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Football Fusion 3 Offense Guide",
+          "description": "Cover offensive strategies including passing, catching timing, route running, rushing, and scoring techniques.",
+          "href": "/guide/football-fusion-3-strategy",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "1",
+              "detail": "Read safety coverage pre-snap to identify man vs zone defense"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "2",
+              "detail": "Lead passes ahead of receivers based on their separation"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "3",
+              "detail": "Utilize pump fakes to bait defensive backs out of position"
+            },
+            {
+              "label": "4",
+              "detail": "Protect the football by sliding or diving when tackled"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Football Fusion 3 Defense Guide",
+          "description": "Explain defensive gameplay including tackling, interceptions, coverage, and stopping offensive plays.",
+          "href": "/mechanics/football-fusion-3-tackling",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Tackle",
+              "detail": "Time your dive tackle right as the ball carrier commits to a lane"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Interception",
+              "detail": "Position in front of the receiver and hold catch at peak jump"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Swat",
+              "detail": "Deflect contested balls down to prevent dangerous tipped catches"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Football Fusion 3 Gamepasses Guide",
+          "description": "List available gamepasses and explain their functions, value, and recommended purchases.",
+          "href": "/mechanics/football-fusion-3-gamepasses",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "VIP Access — Unlocks custom celebrations, jersey numbers, and bonus perks."
+            },
+            {
+              "label": "A",
+              "detail": "Custom Balls & Trails — Cosmetic trail effects and enhanced ball visuals."
+            },
+            {
+              "label": "B",
+              "detail": "Celebration Pack — Dynamic end-zone dance emotes and audio tracks."
+            },
+            {
+              "label": "C",
+              "detail": "Stadium Audio — Custom entrance music and personal stadium sound effects."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Football Fusion 3 Updates",
+          "description": "Track important Football Fusion 3 updates, new features, gameplay changes, and announcements.",
+          "href": "/release/football-fusion-3-release-date",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Physics Overhaul: Updated ball trajectory and aerodynamic drag calculations"
+            },
+            {
+              "label": "2",
+              "detail": "New Stadiums: Added professional competitive arenas with dynamic lighting"
+            },
+            {
+              "label": "3",
+              "detail": "Tackle Balancing: Reduced diving collision latency for competitive play"
+            },
+            {
+              "label": "4",
+              "detail": "Customization: Expanded team uniforms, gloves, and helmet visors"
             }
           ]
         }
@@ -300,27 +343,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to the most common questions about Football Fusion 3.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Football Fusion 3?",
+          "answer": "Football Fusion 3 is a realistic, competitive American football simulation game on Roblox developed by XSTNS GAMES. It features full 7v7 matches, precise ball physics, comprehensive position play, and online multiplayer competition."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I redeem Football Fusion 3 codes?",
+          "answer": "In Football Fusion 3, open the Settings or Codes menu from the main lobby, enter an active promo code into the text field, and click Redeem to receive your rewards."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What platforms support Football Fusion 3?",
+          "answer": "Football Fusion 3 is available on PC, mobile devices (iOS and Android), and consoles via Roblox, with dedicated keybinds and optimized touch controls for each platform."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What are the best positions for beginners in Football Fusion 3?",
+          "answer": "Beginners in Football Fusion 3 should start as a Wide Receiver or Defensive Back to get familiar with movement, sprint timing, and catching mechanics before attempting Quarterback."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How do pass trajectories work in Football Fusion 3?",
+          "answer": "Passing in Football Fusion 3 depends on mouse aim, charge power, and receiver velocity. Tapping produces a lob pass while holding creates a bullet pass."
         }
       ]
     },
