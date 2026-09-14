@@ -6,7 +6,17 @@
     "description": "Explore Football Fusion 3 Wiki for Roblox football guides, controls, positions, strategies, updates, gameplay tips, and everything players need to master competitive matches.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "release": "Release",
+    "guide": "Guide",
+    "controls": "Controls",
+    "mechanics": "Mechanics",
+    "teams": "Teams",
+    "community": "Community",
+    "toggleTheme": "Toggle theme",
+    "menu": "Menu"
+  },
   "home": {
     "meta": {
       "title": "Football Fusion 3 Wiki - Codes, Controls & Guides",
@@ -374,7 +384,6 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -410,5 +419,33 @@
     "buildGuide": "Tactics",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "codes": {
+    "overviewTitle": "Football Fusion 3 Codes",
+    "overviewDescription": "Latest active redeem codes, rewards, and how to claim free items in Football Fusion 3."
+  },
+  "release": {
+    "overviewTitle": "Football Fusion 3 Release",
+    "overviewDescription": "Release dates, update announcements, and roadmap information for Football Fusion 3."
+  },
+  "guide": {
+    "overviewTitle": "Football Fusion 3 Guide",
+    "overviewDescription": "Complete beginner guides, gameplay strategies, and quarterback tutorials for Football Fusion 3."
+  },
+  "controls": {
+    "overviewTitle": "Football Fusion 3 Controls",
+    "overviewDescription": "Comprehensive control schemes for PC keyboard, controller, and mobile devices in Football Fusion 3."
+  },
+  "mechanics": {
+    "overviewTitle": "Football Fusion 3 Mechanics",
+    "overviewDescription": "Detailed guides on tackling, passing mechanics, realistic mode, and gamepasses in Football Fusion 3."
+  },
+  "teams": {
+    "overviewTitle": "Football Fusion 3 Teams",
+    "overviewDescription": "Information about official leagues, competitive teams, clans, and team customization in Football Fusion 3."
+  },
+  "community": {
+    "overviewTitle": "Football Fusion 3 Community",
+    "overviewDescription": "Join official Discord servers, Reddit communities, and global player hubs for Football Fusion 3."
   }
 }

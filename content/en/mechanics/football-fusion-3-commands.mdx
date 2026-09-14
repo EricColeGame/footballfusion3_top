@@ -1,0 +1,120 @@
+export const metadata = {
+  title: "Complete Football Fusion 3 Commands Guide: Controls, Server Settings, and VIP Cheats",
+  description: "Master Football Fusion 3 commands with our full guide covering server controls, private match customization, VIP chat commands, and gameplay settings.",
+  category: "mechanics",
+  date: "2026-09-14",
+}
+
+Stepping onto the gridiron in Roblox sports titles demands more than raw stick skills; understanding your control suite and server environment gives you an immediate competitive edge. Mastering **Football Fusion 3 commands** allows players, coaches, and league commissioners to customize match settings, manage private lobbies, and optimize on-field performance. Whether running a franchise league or hosting casual scrimmages, knowing every critical **Football Fusion 3 commands** shortcut ensures you spend less time configuring menus and more time scoring touchdowns.
+
+From basic lobby navigation to advanced private server administrative permissions, chat syntax controls everything behind the scenes. This guide breaks down every functional command, player utility, and host tool available so you can dominate both on and off the field.
+
+## Essential Football Fusion 3 Commands for General Gameplay
+
+Standard match commands are accessible to all players regardless of server ownership or VIP status. These inputs allow you to inspect server state, toggle visual perspectives, and handle quick quality-of-life adjustments without interrupting gameplay.
+
+When jumping into competitive matches, staying aware of timer states and camera angles is vital. For broader platform rules and account security while executing commands, refer to the official [Roblox Community Guidelines](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standards).
+
+| Command | Primary Syntax | Function & Purpose | Player Access |
+| :--- | :--- | :--- | :--- |
+| **Help / Menu** | `!help` or `!menu` | Displays the server directory, rules list, and active admin roster | All Players |
+| **Time Left** | `!timeleft` | Prints the remaining quarter/match time directly to chat | All Players |
+| **First Person** | `!fp` | Switches camera perspective to first-person view | All Players |
+| **Third Person** | `!tp` | Returns camera perspective to standard third-person view | All Players |
+| **Map Listing** | `!listmaps` | Outputs available stadium variants and arenas to console | All Players |
+| **Next Map** | `!nextmap` | Displays the upcoming stadium in the server rotation | All Players |
+| **Settings UI** | `!settings` | Toggles on-screen performance, audio, and HUD elements | All Players |
+
+### Camera and HUD Customization
+
+Adjusting your field of view (FOV) and perspective can significantly improve your catching radius and passing accuracy. In community reports, top-tier quarterbacks frequently use camera toggles (`!fp` and `!tp`) to switch between surveying secondary route options and checking blindside blitz angles. 
+
+Using `!settings` opens an overlay where you can toggle custom play overlays, stadium audio feeds, and custom killstreak-style match notifications. Keeping these clean reduces frame drops during high-speed routes.
+
+## Server Management and Map Voting Commands
+
+Private lobbies, league scrimmages, and pickup games rely on community-led voting systems. When servers stall or players want to switch venues, vote triggers and admin controls keep games moving smoothly.
+
+```
+How Rock the Vote (RTV) Works:
+[Player inputs !rtv] ➔ [Threshold checked: 66% Server Agreement] ➔ [Map Selection Vote Initiated] ➔ [Instant Transition to Winning Map]
+```
+
+Using these voting tools properly prevents dead lobbies and ensures balanced play across different competitive field styles.
+
+| Command Syntax | Threshold Required | Description | Typical Use Case |
+| :--- | :--- | :--- | :--- |
+| `!rtv` | 66% (2/3 of active server) | Initiates "Rock the Vote" to force an early map change | Ending a blowout or changing dead lobbies |
+| `!nominate [map_name]` | Single User Input | Places a specific stadium into the upcoming vote pool | Choosing custom league stadiums |
+| `!admins` | None | Displays all moderators/commissioners currently in-game | Reporting disruptive play or rule violations |
+| `!hop` | None | Opens a fast-travel menu to switch between connected game servers | Moving from practice fields to live matches |
+| `!discord` | None | Spawns an official link to community leagues and support hubs | Finding organized 7v7 and 11v11 events |
+
+### Nominate and RTV Best Practices
+
+In competitive play, map geometry and turf friction can alter running back cuts and kickoff distances. When utilizing `!nominate`, enter the exact arena name to ensure the stadium loads without asset errors. If a map vote passes via `!rtv` but the community selects "Extend/No Change," the server resets the vote timer for a standard 10-minute cooldown window.
+
+## Customization and VIP Commands
+
+For server boosters, game pass owners, and VIP members, visual customization commands let you stand out on the field. These commands adjust character models, visual trails, overhead tags, and cosmetic effects without granting unfair physical stat advantages.
+
+| Command | Tier Requirement | Effect & Options | Notes |
+| :--- | :--- | :--- | :--- |
+| `!colorme [color]` | Basic VIP | Colors jersey accents or character outline (e.g., Red, Gold, Teal, Blue) | Resets on character respawn |
+| `!robot` | Basic VIP | Transforms player model into mechanical skin preset | Purely cosmetic; hitbox remains standard |
+| `!head [0.3 - 3]` | Basic VIP | Scalable head size modifier | Adjusts visual scale only |
+| `!cc` | Full VIP | Opens Custom Chat menu (toggle VIP tag, custom chat hex colors) | Saves preferences permanently |
+| `!trails` | Full VIP | Displays equippable cosmetic footstep and sprint trails | High-tier visual reward |
+| `!tail` | Full VIP | Equips unique trailing physical attachments | Toggled via VIP locker |
+| `!voice` | Full VIP | Modifies avatar audio pitch for custom callouts | Client-side and server audible |
+
+Player experience notes emphasize that while cosmetic commands like `!head` alter your character model's look, tackling and receiving collision boxes are strictly locked to default sizes to preserve competitive balance.
+
+## League Administration and Match Ref Commands
+
+For commissioners hosting custom scrimmages, administrative **Football Fusion 3 commands** dictate the flow of the game. Referees utilize host tools to position the line of scrimmage, award penalty yards, reset downs, or overturn questionable boundary catches.
+
+| Match Admin Command | Argument | Action Taken | Common Scenario |
+| :--- | :--- | :--- | :--- |
+| `!ball [player]` | Username | Spawns/teleports the football to the designated player | Snapping reset or practice drill setups |
+| `!down [1-4]` | Integer | Sets the current down state manually | Correcting blown whistle calls |
+| `!spot [yardline]` | Yard Number (1-99) | Repositions the line of scrimmage to the chosen marker | Penalty enforcement (e.g., holding, offsides) |
+| `!to [home/away]` | Team Identifier | Deducts or resets team timeout counts | Clock management disputes |
+| `!clock [seconds]` | Time Value | Sets quarter clock to an exact remaining timestamp | Restoring lost time after rule reviews |
+| `!kick [player]` | Username + Reason | Removes disruptive players from the private server session | League discipline and lobby moderation |
+
+### Match Setup Workflow for Referees
+
+1. **Lobby Initialization**: Host types `!listmaps` and selects the approved regulation field.
+2. **Captains Check**: Use `!admins` and `!settings` to confirm all players have default latency and uniform designations.
+3. **Ball Placement**: Execute `!spot [yardline]` to establish kickoff and coin-toss positions.
+4. **Clock Calibration**: Set competitive timing rules (standard 3-minute or 5-minute quarters) using `!clock`.
+5. **Enforcement**: Run `!to` and `!down` commands to handle penalties seamlessly during live drives.
+
+## Troubleshooting Common Football Fusion 3 Command Errors
+
+Sometimes commands fail to execute due to permission mismatches, syntax typos, or chat filtering. When inputting **Football Fusion 3 commands**, adhere to these troubleshooting steps:
+
+| Issue / Error | Likely Cause | Solution |
+| :--- | :--- | :--- |
+| **"Command Not Recognized"** | Missing prefix (`!` or `/`) or spelling typo | Re-enter command with correct prefix (e.g., `!menu` instead of `menu`) |
+| **"Insufficient Permissions"** | Attempting VIP or Admin command on standard server | Verify server gamepass ownership or request host permissions |
+| **"Vote Failed / Cooldown"** | `!rtv` threshold not met or cooldown active | Ensure at least 66% of lobby participates; wait for timer reset |
+| **Chat Tag Color Not Saving** | `!cc` menu closed before hitting confirm | Re-open `!cc`, pick hex code, and click "Apply Changes" |
+| **Model Size Distortion** | Out-of-bounds scale on `!head` command | Enter `!head 1` to reset your avatar to standard default proportions |
+
+Whenever entering names in player-specific commands, using partial string matching (e.g., `!ball Rob` instead of the full username) works in most private servers, provided no duplicate names exist in the active roster.
+
+## Frequently Asked Questions
+
+### What are the most useful Football Fusion 3 commands for beginners?
+The most helpful **Football Fusion 3 commands** for new players are `!menu` (or `!help`) to view basic rules, `!timeleft` to track game intervals, and `!settings` to fine-tune visual overlays and camera toggles.
+
+### How do I get access to VIP commands in Football Fusion 3?
+VIP commands like `!colorme`, `!trails`, and `!cc` require purchasing the designated VIP Gamepass from the game's store page or joining verified community partner servers. Once acquired, your account is automatically granted command access.
+
+### Can using cosmetic commands affect my player stats or hitboxes?
+No. Cosmetic commands (such as `!head` or `!robot`) change only the visual skin of your avatar. Hitboxes, catching envelopes, top sprint speed, and throwing velocity remain identical across all player models to ensure fair competitive integrity.
+
+### Why are my private server commands not working?
+If server management commands fail to execute, ensure that your Roblox account has designated Owner or Admin privileges in the private server configuration settings, and confirm that the chat box is not filtering your prefix syntax.
