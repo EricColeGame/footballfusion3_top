@@ -2,6 +2,9 @@ name: Build and Deploy to Cloudflare Workers
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   deploy:
@@ -27,7 +30,7 @@ jobs:
         run: npm run build
         env:
           NODE_OPTIONS: --max-old-space-size=4096
-          NEXT_PUBLIC_SITE_URL: https://vvultimatum.sbs
+          NEXT_PUBLIC_SITE_URL: ${{ secrets.NEXT_PUBLIC_SITE_URL }}
           NEXT_PUBLIC_GOOGLE_ANALYTICS_ID: ${{ secrets.NEXT_PUBLIC_GOOGLE_ANALYTICS_ID }}
           NEXT_PUBLIC_MICROSOFT_CLARITY_ID: ${{ secrets.NEXT_PUBLIC_MICROSOFT_CLARITY_ID }}
           NEXT_PUBLIC_GOOGLE_ADSENSE_ID: ${{ secrets.NEXT_PUBLIC_GOOGLE_ADSENSE_ID }}
